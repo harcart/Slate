@@ -17,6 +17,6 @@ the following teams:
 ## Group Members
 - Harrison McCarty (Cloud team)
 - Vishisht Jain (UI Team)
-- Anish Tiware (Integration Team)
+- Anish Tiwari (Cloud Team)
 - Hemant Dantam (UI Team)
 - Adhitya Ramkumar (Cloud Team)
