@@ -4,7 +4,7 @@ Slate was a project developed through 'Hello World 2019', Purdue University's fr
 The purpose of Slate was to enable a new level of mobile collaboration. Through this real-time 
 whiteboard users can share notes, play games, create art and more.
 
-[Click here for presentation slides] (https://docs.google.com/presentation/d/1u_Ggo8ITpqGFuHXw5rhiN8jk5OqBsjb1fi1HQ4xYsMs/edit?usp=sharing)
+[Click here for presentation slides](https://docs.google.com/presentation/d/1u_Ggo8ITpqGFuHXw5rhiN8jk5OqBsjb1fi1HQ4xYsMs/edit?usp=sharing)
 
 ## Organization/Project Management
 To increase efficiency the team was split up into two/three groups, meeting every 4-5 hours. This allowed us
